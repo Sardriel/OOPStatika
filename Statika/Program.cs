@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Statika
+namespace OOPStatika
 {
     class Program
     {
